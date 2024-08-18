@@ -1,1 +1,1 @@
-# Healty,Safety and Environment
+# HEALTHY, SAFETY AND ENVIRONMENT
