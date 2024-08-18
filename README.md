@@ -1,5 +1,7 @@
  <h1 align="center">Healthy, Safety and Environment there</h1>
 
+ ![mindmap](https://raw.githubusercontent.com/gamemash/health-and-safety/master/documentation/mindmap.png "mindmap")
+
 <!-- // The above code is a GitHub profile README file written in Markdown. It includes a brief introduction of the author, their skills and interests, and links to their social media profiles. It also includes a list of programming languages and tools the author is proficient in, and their GitHub stats. The last line includes an image of a GitHub user icon.
 -->
 
