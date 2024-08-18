@@ -12,3 +12,16 @@
 <a href="https://www.linkedin.com/in/mohammed-el-badry-2305ab222/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" /></a>
 <a href="https://instagram.com/mohammed.el.badry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishav_chanda" height="30" width="40" /></a>
 </p>
+
+---
+title:
+
+
+---
+title: Use Dynamics 365 products to plan and recruit your workforce
+description: Read about the business process area for planning and recruiting your workforce in Dynamics 365, including types of stakeholders and benefits.
+ms.date: 01/23/2024
+ms.topic: conceptual
+author: edupont04
+ms.author: riblack
+---
