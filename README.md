@@ -1,5 +1,5 @@
  <h1 align="center">Healthy, Safety and Environment </h1>
- ![mindmap](https://github.com/Rafliharris/HSE/blob/main/HSE-MANAGEMENT-SYSTEM.jpg)
+ ![gambar](https://github.com/Rafliharris/HSE/blob/main/HSE-MANAGEMENT-SYSTEM.jpg)
 
 ![mindmap](https://raw.githubusercontent.com/gamemash/health-and-safety/master/documentation/mindmap.png "mindmap")
 
