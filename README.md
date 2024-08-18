@@ -2,10 +2,6 @@
 
  ![mindmap](https://raw.githubusercontent.com/gamemash/health-and-safety/master/documentation/mindmap.png "mindmap")
 
-<!-- // The above code is a GitHub profile README file written in Markdown. It includes a brief introduction of the author, their skills and interests, and links to their social media profiles. It also includes a list of programming languages and tools the author is proficient in, and their GitHub stats. The last line includes an image of a GitHub user icon.
--->
-
-[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://rishavchanda.io)
 
  <h1 align="center">Hi 👋 there</h1>
 
