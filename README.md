@@ -1,6 +1,6 @@
  <h1 align="center">Healthy, Safety and Environment </h1>
 
- ![mindmap](https://raw.githubusercontent.com/gamemash/health-and-safety/master/documentation/mindmap.png "mindmap")
+ ![mindmap]([https://raw.githubusercontent.com/gamemash/health-and-safety/master/documentation/mindmap.png](https://github.com/Rafliharris/HSE/blob/main/HSE-MANAGEMENT-SYSTEM.jpg) "mindmap")
 
 
  <h1 align="center">Hi 👋 there</h1>
