@@ -1,4 +1,4 @@
- <h1 align="center">Healthy, Safety and Environment there</h1>
+ <h1 align="center">Healthy, Safety and Environment </h1>
 
  ![mindmap](https://raw.githubusercontent.com/gamemash/health-and-safety/master/documentation/mindmap.png "mindmap")
 
